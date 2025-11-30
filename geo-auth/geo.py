@@ -1,4 +1,4 @@
-nice = true
+nice = True
 
 
 def get_user_location():
@@ -9,5 +9,6 @@ def get_user_location():
 def get_user_flat():
     return 42
 
+
 def pivo_po_skidke():
-    retutn nice
+    return nice
